@@ -24,4 +24,8 @@ public class ConfigService {
         }
         return null;
     }
+
+    void findHHHH(){
+        System.out.println("你妹的");
+    }
 }
